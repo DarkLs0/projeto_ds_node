@@ -1,0 +1,5 @@
+#BIBLIOTECAS
+node_modules/
+
+# Variáveis de ambiente
+.env
